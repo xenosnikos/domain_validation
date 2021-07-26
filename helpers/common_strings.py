@@ -13,5 +13,4 @@ strings = {
     'mongo_value': 'value',
     'input_force': 'force',
     'message': 'message',
-    'output_domain': 'domain'
 }
